@@ -1,3 +1,11 @@
+# Ruth Ramos — MERN support-ticket flow Study Fork
+
+Attributed study fork of [bradtraversy/support-desk](https://github.com/bradtraversy/support-desk), under the preserved [MIT license](MIT-LICENSE.txt). Upstream code and history retain their original authors.
+
+The additions are [source study notes](study/STUDY.md) and a [pinned source record](study/SOURCE.json), created in October 2026. This fork does not claim original authorship or work performed in 2021–2023. Application tests have not been run for this documentation-only addition.
+
+---
+
 # Support Desk App
 
 Support ticket application built with the MERN stack. This is a project from my [React Front To Back](https://www.udemy.com/course/react-front-to-back-2022/?referralCode=4A622C7E48DB66154114) course.

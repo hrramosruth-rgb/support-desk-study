@@ -1,0 +1,12 @@
+{
+  "upstream": "bradtraversy/support-desk",
+  "name": "support-desk-study",
+  "source_commit": "00c4caecbf1cbfef4c44824290ffe884892f0323",
+  "branch": "main",
+  "archived": false,
+  "upstream_url": "https://github.com/bradtraversy/support-desk",
+  "license": "MIT",
+  "added": "2026-10-07",
+  "purpose": "Attributed source study; original upstream implementation and authors preserved.",
+  "validation": "Documentation paths and unchanged source/license checked. Application tests not run."
+}
